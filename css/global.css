@@ -1,0 +1,35 @@
+h1{
+    color:#97A7EA;
+     font-size: 35px;
+}
+h3 {
+    color: white;
+    font-size: 15px;
+
+}
+.corpo {
+    background-color:#2D3246;
+    padding: 5px;
+}
+nav a {
+    text-decoration: none;
+    color: #ffffff;
+    margin: 15px;
+}
+
+nav {
+    background-color: #97A7EA;
+    padding: 15px;
+}
+label {
+    color: white;
+}
+
+table, th, td {
+    border-style: solid;
+    border-width: 2px;
+    padding: 4px;
+    text-align: center;
+    border-color: #97A7EA;
+    color: white;
+}
